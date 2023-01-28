@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "music-organizer": {
+      "commandName": "Project",
+      "commandLineArgs": "OrderByAlbumYear D:\\"
+    }
+  }
+}
