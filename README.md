@@ -15,7 +15,7 @@ Download the latest .exe version in the releases page and run it like this:
 Then, the application will change the name of all the mp3 files in the `[folderPath]` variable to be ordered by the launch year of the album. 
 The name of the files will look like this:
 
-Random FileName.mp3 > 1 - 2001 - Fallin.mp3
+Random FileName.mp3 > 1 - 2001 - Fallin.mp3  
 Randomest Filename.mp3 > 2 - 2002 - How You Remind Me.mp3
 
 Following the patterns described below:
